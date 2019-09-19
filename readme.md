@@ -1,5 +1,5 @@
 ## Mongo-queries-2
-Crear una bd “libreria” y cargar los scripts adjuntos con el comando `load("_nombrefichero_")` desde el __mongo shell__.
+Crear una bd “libreria” y cargar los scripts adjuntos con el comando `load("nombrefichero")` desde el __mongo shell__.
 
 Lanzar las siguientes queries:
 
